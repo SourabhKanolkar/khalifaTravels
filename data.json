@@ -1,0 +1,26 @@
+{
+    "requirements": [
+      {
+        "country": "Afghanistan",
+        "consulate": "Delhi",
+        "visaType": "Business",
+        "data": {
+          "requirements": [
+            "Valid Passport with at least 6 months validity from the date of travel",
+            "1 form",
+            "2 Recent Coloured photos",
+            "Cover letter",
+            "Invitation letter",
+            "Current year DAR copy"
+          ],
+          "address": {
+            "line": "5/50-F,Shanti Path,Chankaya Puri,New Delhi",
+            "tel": "26883602,24103331",
+            "email": "delhi@afghanistan-mfa.net"
+          }
+        }
+      }
+      
+    ]
+  }
+  
